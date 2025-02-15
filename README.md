@@ -9,21 +9,6 @@ Este repositório faz parte de um compromisso pessoal de realizar commits diári
 
 ## Histórico de Atividades
 
-### 12/02/2025
-- Como aprender NextJS rapidamente
-- Visão geral do projeto
-- Roteamento baseado em arquivo
-- Adicionando rotas adicionais
-- Vinculação entre páginas
-
-### 13/02/2025
-- UI comum no NextJS com layouts
-- Estratégia de Estrutura do Projeto
-- Atalho de importação de caminho absoluto
-- Arquivos de imagem + atualização de importação
-- Adicionando imagens no NextJS
-
-### 14/02/2025
-- Adicionando um componente de apresentação reutilizável
-- Adicionando algum estilo
-- Implantação de produção com Verce
+### 15/02/2025
+- Criando o projeto de Snippets
+- Configurando Prisma
